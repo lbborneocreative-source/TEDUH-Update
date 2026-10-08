@@ -1,7 +1,11 @@
 {
-  "version": "1.0.23",
-  "build": 28,
-  "apk_url": "https://github.com/lbborneocreative-source/TEDUH-Update/releases/download/v1.0.23-build28/TEDUH-v1.0.23-build28.apk",
-  "notes_bm": "Kemas kini TEDUH tersedia.",
-  "notes_en": "A new TEDUH update is available."
+  "version": "1.0.24",
+  "build": 29,
+  "versionCode": 29,
+  "versionName": "1.0.24",
+  "title": "TEDUH v1.0.24 Build29",
+  "description": "Penambahbaikan Catatan Pelita Firman, carian Bahan Doa dan navigasi.",
+  "url": "https://github.com/lbborneocreative-source/TEDUH-Update/releases/download/v1.0.24-build29/TEDUH-v1.0.24-build29.apk",
+  "apkUrl": "https://github.com/lbborneocreative-source/TEDUH-Update/releases/download/v1.0.24-build29/TEDUH-v1.0.24-build29.apk",
+  "forceUpdate": false
 }
